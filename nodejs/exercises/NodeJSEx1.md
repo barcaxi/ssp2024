@@ -5,7 +5,7 @@
 
 This will copy some ``nodejs`` program files to your ``htdocs`` folder.  
 
-Go to [this link](https://github.com/barcaxi/ssp2023) and download the repository ZIP file.  Copy the folder ``nodejs`` into your XAMPP ``htdocs`` folder.
+Go to [this link](https://github.com/barcaxi/ssp2024) and download the repository ZIP file.  Copy the folder ``nodejs`` into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``nodejs`` with some files in it.
 
