@@ -22,10 +22,16 @@
   
 4.  Add code to ``sample_paragraphs.js`` to print the ``<h1>`` heading text
 
-5.  Add code to ``sample_paragraphs.js`` to print the 3rd list item text
+5.  Add code to ``sample_paragraphs.js`` to print the 1st list item text
    
 6.  Add code to ``sample_paragraphs.js`` to print the 3rd list item text
 
-7.  Add code to ``sample_paragraphs.js`` to print the filename associated with the Angular image
+7.  In ``sample_paragraphs.js`` give the Angular image an id/value property:
+
+    ```html
+    <img id="angularImage" src="images/angular.png" width="100">
+    ```
+
+    Then, add code to print the ``src`` attribute value.
    
 
